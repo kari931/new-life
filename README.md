@@ -1,4 +1,7 @@
-# 🌱 New Life – Personal Dev Portfolio
+# 🌱 New Life – Web Developer in the Making
+
+Hi, I'm Karima – a self-taught developer based in France, currently transitioning into tech.  
+My goal: build useful digital products, work remotely, and live a more intentional life.
 
 ## About
 This is my personal journey into the world of web development and SAP ABAP. I’m transitioning into tech to work remotely, build useful digital tools, and live aligned with my values.
@@ -14,17 +17,20 @@ This is my personal journey into the world of web development and SAP ABAP. I’
 - Git & GitHub
 - Responsive Design / Algorithms
 
-## Projects
-- Landing Page (HTML/CSS) – in progress
-- JavaScript Calculator – upcoming
-- SAP ABAP script – coming soon
+## 🚧 Projects (Work in Progress)
+
+- **Personal Landing Page** – responsive HTML/CSS structure (coming soon)
+- **JS Calculator** – simple arithmetic logic (planned)
+- **SAP ABAP Script** – introduction to backend SAP (upcoming)
 
 ## Timeline
+
 📅 Started: April 2025  
-🛠️ Ongoing updates: Weekly commits
+🧠 Currently learning: JavaScript, SAP ABAP  
+🌍 Goal: Work remotely by mid-2026
 
+*Thanks for visiting – feel free to follow my journey or reach out!*
 ---
-
 *This is the beginning of my new life through code and discipline.*
 
 # About Me in FR
